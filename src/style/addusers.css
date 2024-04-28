@@ -1,0 +1,20 @@
+.addusers{
+    margin-top: 100px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    margin-left: 150px;
+    margin-right: 150px; 
+    
+}
+.addusers .input>input{
+    height: 30px;
+    width: 550px;
+    margin-top: 20px;
+}
+.addusers .button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 220px;
+}
+

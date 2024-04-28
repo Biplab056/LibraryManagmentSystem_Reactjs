@@ -1,0 +1,54 @@
+.bookcover{
+    background-image:url(https://kitabay.com/cdn/shop/files/Myster-box_70602990-0b0e-4c94-8ba1-8cccc290633c.jpg?v=1702899052);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 600px;
+    width: 100%;
+    margin-bottom: 10px;
+   
+   
+}
+.books{
+    background-color:#e7e9e5 ;
+}
+.booklist{
+    display: flex;
+   
+    justify-content: center;
+    align-items: center;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px 5px rgb(151, 123, 70);
+   width:620px;
+   background-color:rgb(226, 218, 207) ;
+   margin: 15px 15px 15px 15px ;
+  
+   
+}
+.button{
+    display: flex;
+    justify-content: space-between;
+    width: 210px;
+    margin-left: 10px;
+}
+.button button{
+    background-color:#f37b2a;
+    border: none;
+    height: 30px;
+    border-radius:15px;
+}
+.bookcollection{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 10px;
+}
+
+.books>h1{
+    font-family:cursive;
+}
+.marque{
+    height: 27px;
+    background-color: #d6d8d5;
+}
